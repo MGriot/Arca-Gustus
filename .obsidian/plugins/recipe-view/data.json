@@ -1,0 +1,6 @@
+{
+  "sideColumnRegex": "Ingredients|Kitchenware|Nutrition|Source",
+  "treatH1AsFilename": false,
+  "renderUnicodeFractions": true,
+  "singleColumnMaxWidth": 600
+}

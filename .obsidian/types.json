@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Difficulty": "multitext",
+    "Preparazione": "number",
+    "Type": "multitext",
+    "Cost": "multitext",
+    "Dish type": "multitext",
+    "Rating": "multitext",
+    "URL": "text"
+  }
+}

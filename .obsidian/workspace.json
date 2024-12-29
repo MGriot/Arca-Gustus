@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "35a8e83976d6f276",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3837270b0c0ce9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fae9e8865b6c8690",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b81e75d643dfb6a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Tahina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tahina"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18d0d56d689bbb2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebdf03f1f31cccb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c92388657a9096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39f4c3d6070eec99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d87ab35f3fa6d7f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "96d96bee6cd5858d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f506579be7b2d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc80d8908530109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b37289fb261eb2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4cd4bdb6ac68998e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6b596c2484af5c19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0adae0baf8b7be8a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6ff4c4b0a0be8f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c5dcebc53b8cc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b31c54149aa52ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aecf45acae0faae7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:Recipes  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:Ingredients  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false,
+      "recipe-view:Toggle recipe view": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "fae9e8865b6c8690",
+  "lastOpenFiles": [
+    "Ricettario.md",
+    "Recipes/Tahina.md",
+    "Recipes/Focaccia al cavolo nero.md",
+    "Recipes/Hummus.md",
+    "Resources/2. Images/Pasted image 20241229121702.png",
+    "Resources/1. Templates/Template - Recipe.md",
+    "Ingredients/Uova.md",
+    "link.md",
+    "Recipes/Crema pasticcera.md",
+    "Resources/2. Images/Pasted image 20241227205247.jpg",
+    "Resources/1. Templates/Template - Ingredient.md",
+    "Recipes/Cake pops.md",
+    "Recipes/Cervo in salmì.md",
+    "Recipes/Pan di Spagna.md",
+    "Resources/2. Images/Pasted image 20241226210201.jpg",
+    "Recipes/Flan di zucca con fonduta di gorgonzola.md",
+    "zucca delica.md",
+    "Recipes/Korean Fried chicken.md",
+    "Resources/2. Images/Pasted image 20241226204017.png",
+    "Recipes/Focaccia.md",
+    "Recipes/Cervo in umido.md",
+    "Resources/2. Images/Focaccia-morbida-e-alta-Ricetta-Focaccia.webp",
+    "Resources/2. Images/Pasted image 20241226184816.jpg",
+    "Resources/2. Images/Pasted image 20241226180756.jpg",
+    "Resources/2. Images/Pasted image 20241226175514.png",
+    "Resources/2. Images/Pasted image 20241226175445.png",
+    "Resources/2. Images/Pasted image 20241226175426.png",
+    "Arca Gustus.md",
+    "gorgonzola.md",
+    "Resources/2. Images",
+    "image.md",
+    "Recipes",
+    "Ingredients",
+    "Resources",
+    "Resources/1. Templates",
+    "Welcome.md"
+  ]
+}

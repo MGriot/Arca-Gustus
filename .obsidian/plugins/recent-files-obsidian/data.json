@@ -1,0 +1,47 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Ricettario",
+      "path": "Ricettario.md"
+    },
+    {
+      "basename": "Tahina",
+      "path": "Recipes/Tahina.md"
+    },
+    {
+      "basename": "Focaccia al cavolo nero",
+      "path": "Recipes/Focaccia al cavolo nero.md"
+    },
+    {
+      "basename": "Hummus",
+      "path": "Recipes/Hummus.md"
+    },
+    {
+      "basename": "Template - Recipe",
+      "path": "Resources/1. Templates/Template - Recipe.md"
+    },
+    {
+      "basename": "Uova",
+      "path": "Ingredients/Uova.md"
+    },
+    {
+      "basename": "Crema pasticcera",
+      "path": "Recipes/Crema pasticcera.md"
+    },
+    {
+      "basename": "Template - Ingredient",
+      "path": "Resources/1. Templates/Template - Ingredient.md"
+    },
+    {
+      "basename": "Cake pops",
+      "path": "Recipes/Cake pops.md"
+    },
+    {
+      "basename": "Cervo in salmì",
+      "path": "Recipes/Cervo in salmì.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
+}
